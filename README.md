@@ -2,4 +2,10 @@
 Web Application Penetration Testing
 
 This project is to conduct SQLi and XSS attacks on vulnerable websites. 
-Team member names are mentioned in Team_2.3_Assignments
+
+Team members (VIT-AP):
+Rithy Raichel Soj
+Rahul B Ganesh
+Diya Gupta
+Sahishnu Aprameya
+
