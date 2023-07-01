@@ -10,9 +10,9 @@ Team members (VIT-AP):
 4. Sahishnu Aprameya (20BCE7273)
 
 This branch contains:
-A.   Assignments (all 3 of all team members) 
-B.   Project Files 
-C.   Project Report (PDF) 
-D.   (Within Project Files) Demo Videos -> Please click on the three dots next to "Project Files" to view the XSS demo video.
+1.   Assignments (all 3 of all team members) 
+2.   Project Files 
+3.   Project Report (PDF) 
+4.   (Within Project Files) Demo Videos -> Please click on the three dots next to "Project Files" to view the XSS demo video.
 
 
